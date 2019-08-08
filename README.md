@@ -1,8 +1,6 @@
 # Health-Care-ML-Project
 
-This project focuses on the healthcare industry, specifically predicting returning patients to a hospital (patients who are readmitted or return to a hospital within 30 days of being discharged). It’s divided into two project phases: 
- 
- Phase I: understanding the data and developing initial modeling  Phase II: further developing your analysis and ultimately choosing a best model for predicting patient returns 
+This project focuses on the healthcare industry, specifically predicting returning patients to a hospital (patients who are readmitted or return to a hospital within 30 days of being discharged). 
  
 Ultimately, the job is to predict if a patient will return to a hospital within 30 days of being discharged (the variable Return). 
 
